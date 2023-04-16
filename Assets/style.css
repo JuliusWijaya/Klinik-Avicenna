@@ -1,0 +1,39 @@
+body {
+  background-color: #a9c9ff;
+  background-image: linear-gradient(180deg, #a9c9ff 0%, #ffbbec 100%);
+  height: 100vh;
+  font-family: 'Montserrat', sans-serif;
+}
+
+table,
+th,
+tr,
+td {
+  border: 1px solid #333;
+  margin: 20px auto;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.inputan,
+input,
+select {
+  display: flex;
+  justify-content: center;
+  margin: 3px;
+}
+
+.btn button {
+  margin-left: 8px;
+  border: none;
+  background-color: #3a86ff;
+  color: #fff;
+  width: 5rem;
+  height: 1.8rem;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 5px;
+}

@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "date": "2023-04-15",
+      "name": "Levi Ackerman",
+      "age": "25",
+      "poli": "Poli Umum",
+      "id": 1
+    },
+    {
+      "date": "2023-04-16",
+      "name": "Mikasa Ackerman",
+      "age": "20",
+      "poli": "Poli Gigi",
+      "id": 2
+    }
+  ],
+  "polies": [
+    {
+      "name": "Poli Umum",
+      "id": 1
+    },
+    {
+      "name": "Poli Gigi",
+      "id": 2
+    },
+    {
+      "name": "Poli Anak",
+      "id": 3
+    }
+  ]
+}
